@@ -1,3 +1,3 @@
 # AtCoder Regular Contest
 
-##github
+## GiHub
