@@ -1,4 +1,4 @@
-# AtCoder Regular Contest
+# AtCoder Beginners Contest
 
 ## language
 - c++
